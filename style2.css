@@ -1,8 +1,51 @@
 body {
-    background-image: url(https://cdn.wallpapersafari.com/68/40/ubwcDK.jpeg);
+    background-image: url(https://i.pinimg.com/564x/ab/4b/37/ab4b37c4b3f2c9e9284da3fcdbc0a771.jpg);
     background-repeat: no-repeat;
     background-position: top;
-    background-color: rgb(102, 179, 255);
+    background-color: rgb(94,114,121);
     background-attachment: fixed;
+	background-size:contain;
+	
 
+}
+#tyt{
+	text-align: center;
+	backroung-color: black;
+	color: rgb(239,165,8);
+	webkit-text-stroke-color: rgb(239,165,8);
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-fill-color: rgb(181,13,35);
+	font-size:90px;
+	font-family:Comic Sans MS, Comic Sans, cursive;
+}
+h2{
+	font-family:Comic Sans MS, Comic Sans, cursive;
+	text-align:left;
+	position:relative;
+	left:4cm;
+	font-size:25px;
+	color:#ff6633;
+}
+h3{
+	font-family:Comic Sans MS, Comic Sans, cursive;
+	text-align:left;
+	position:relative;
+	left:1cm;
+	font-size:23px;
+	
+	
+}
+h4{
+	font-family:Comic Sans MS, Comic Sans, cursive;
+	text-align:left;
+	position:relative;
+	left:2cm;
+	font-size:25px;
+	color:#4e0020;
+}
+ul{
+font-size:30px;
+text-align:left;
+font-family:Comic Sans MS, Comic Sans, cursive;
+color:rgb(255,255,255);
 }
